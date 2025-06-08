@@ -12,7 +12,7 @@ Este é um projeto simples de sistema de cadastro desenvolvido em **Java**, util
 - **Swing** (Interface)
 - **JPA (Java Persistence API)**
 - **MySQL** (Banco de dados local)
-- **IDE** (NetBeans, IntelliJ IDEA ou Eclipse)
+- **IDE** (NetBeans)
 
 ---
 
